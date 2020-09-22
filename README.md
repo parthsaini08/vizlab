@@ -56,7 +56,9 @@ The code for clustering looks like:
 ***from sklearn.cluster import KMeans***  
 ***from sklearn.datasets import make_blobs***  
 ***X,y=make_blobs(n_samples=200)***  
-***visualize.viz_cluster(KMeans(n_clusters=3),X)***  
+***visualize.viz_cluster(KMeans(n_clusters=3),X)*** 
+
+  ![Clustering](/images/KMeans.png)
 
 Moreover if you want to cluster analysis i.e. if you want to know the number of clusters set the __help_clusters=True__ . You can also set the upper range and lower range for the number of clusters u want to examine the code for and accordingly set the values of upper_range and lower_range parameters. The analysis will be done on the basis of sillhoute score of the clusters in different cases.
 Example:
