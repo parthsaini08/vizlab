@@ -11,7 +11,10 @@ The code for regression looks like :
 ***X= 2 *np.random.randn(100,1)***    
 ***y=4+3*X+np.random.randn(100,1)***    
 ***visualize.viz_reg(LinearRegression(),X,y)***    
-![Regression](/images/Regression.png)
+
+  ![Regression](/images/Regression.png)  
+  
+  
 You can also do the same for more than one model i.e. by directly passing the list of all models you want to see the regression curve for.
 Example : 
 
