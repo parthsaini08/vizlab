@@ -11,8 +11,13 @@ setup(
   download_url = 'https://github.com/parthsaini08/vizlab/archive/v_01.tar.gz',    
   keywords = ['VISUALIZE', 'MODELS'],  
   install_requires=[           
-          'validators',
-          'beautifulsoup4',
+          'pymsgbox',
+          'fpdf',
+          'sklearn',
+          'seaborn',
+          'matplotlib',
+          'numpy',
+          'pandas',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',     
