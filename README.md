@@ -65,6 +65,9 @@ Example:
 
 ***visualize.viz_cluster(KMeans(n_clusters=3),X,help_clusters=True,upper_range=6)***  
 
+
+  ![Cluster_analysis](/images/cluster_analysis.png)
+
 ## Data Analysis
 You can also data analysis on a given dataframe using this library . The data will be analysed and will be saved in the form of a pdf in your current working directory .
 For this the code goes as follows : 
