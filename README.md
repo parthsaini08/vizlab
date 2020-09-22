@@ -78,7 +78,7 @@ For this the code goes as follows :
 ***repo.report(df)***  
 
 Hence a pdf will be created which gives a basic overview of your data.
-
+You can find the pdf of the report and the dataframe also in the above files.
 
 
 
