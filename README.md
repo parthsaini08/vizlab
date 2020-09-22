@@ -1,6 +1,6 @@
 # vizlab
 Library for visualizing machine learning models and for Data Preprocessing.
-For installation : 
+For installation :   
   *****pip install vizlab==0.3*****  
 # Use
 This library is made to make visualizing easy for all the basic machine learning models including Regression , Classification and Clustering.
