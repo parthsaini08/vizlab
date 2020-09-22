@@ -8,7 +8,7 @@ setup(
   author = 'Parth Saini',                   
   author_email = 'parth08.saini@gmail.com',      
   url = 'https://github.com/parthsaini08/vizlab',  
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/parthsaini08/vizlab/archive/v_01.tar.gz',    
   keywords = ['VISUALIZE', 'MODELS'],  
   install_requires=[           
           'validators',
