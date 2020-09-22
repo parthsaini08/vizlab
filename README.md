@@ -30,7 +30,7 @@ The code for this looks like:
 ***y=4+3*X+np.random.randn(100,1)***  
 ***visualize.plot_learning_curves_reg(LinearRegression(),X,y)***  
 
-  ![Learning curves](/images/learning_curves.png)
+  ![Learning curves](/images/learning_curve.png)
 ## Classification 
 The code for classification looks like :
 
