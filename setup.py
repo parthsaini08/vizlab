@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'vizlab',        
   packages = ['vizlab'],
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',        
   description = 'Library for visualizing machine learning models and for Data Preprocessing',  
   author = 'Parth Saini',                   
   author_email = 'parth08.saini@gmail.com',      
   url = 'https://github.com/parthsaini08/vizlab',  
-  download_url = 'https://github.com/parthsaini08/vizlab/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/parthsaini08/vizlab/archive/v_02.tar.gz',    
   keywords = ['VISUALIZE', 'MODELS'],  
   install_requires=[           
           'pymsgbox',
