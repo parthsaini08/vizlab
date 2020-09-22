@@ -40,6 +40,10 @@ The code for classification looks like :
 ***X,y=make_moons(n_samples=200)***  
 ***visualize.viz_clf(SVC(),X,y)***  
 
+
+  ![Classification](/images/svm.png)  
+  
+  
 You can also do the same for more than one model i.e. by directly passing the list of all models you want to see the classification curve for.
 Example :
 
