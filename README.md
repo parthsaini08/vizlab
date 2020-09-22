@@ -10,7 +10,7 @@ The code for regression looks like :
   import numpy as np  
 X= 2 *np.random.randn(100,1)  
 y=4+3*X+np.random.randn(100,1)  
-visualize.viz_reg(LinearRegression(),X,y)  ***
+visualize.viz_reg(LinearRegression(),X,y)  
 
 You can also do the same for more than one model i.e. by directly passing the list of all models you want to see the regression curve for.
 Example : 
